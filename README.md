@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://miro.medium.com/max/800/1*HBoFpeOTCuIDQMKsSpYN7A.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">redux-tips</h3>
+<h3 align="center">Redux & Redux-Saga with React</h3>
 
 <div align="center">
 
