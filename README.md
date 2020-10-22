@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://miro.medium.com/max/800/1*HBoFpeOTCuIDQMKsSpYN7A.png" alt="Project logo"></a>
+ <img width=200px height=200px src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/386/full/redux.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Redux & Redux-Saga with React</h3>
