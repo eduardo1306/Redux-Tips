@@ -49,3 +49,8 @@ Just run yarn/npm install in your terminal and enjoying the tips.
 ## ✍️ Authors <a name = "authors"></a>
 
 - [@eduardo1306](https://github.com/eduardo1306)
+
+## 📚 Tips <a name = "tips"></a>
+- [🇧🇷 - Redux](https://www.notion.so/React-Redux-2b20b29a36784ad78e9b418e56efcdba)
+- [🇧🇷 - Redux-Saga](https://www.notion.so/Redux-Saga-5b3d2921fbc841f58d8fc7a28b5949de)
+- 🇺🇸 Tips in english will comming soon....
